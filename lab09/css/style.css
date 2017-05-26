@@ -1,0 +1,59 @@
+
+#header{height:205px;background-image:url(images/bg.gif);background-position: center top;background-repeat: no-repeat;}
+#banner{width:1000px;height:164px;}
+#img{position: absolute;left:150px;top: 38px;}
+#nav{height:40px;background-image:url(images/nav.jpg);}
+.nav_body{width:1000px;color: white;}
+.nav_content{float:left;width:900px;height:40px;;padding-top: 7px;font-family: "宋体" ；font-size:12px;font-weight: bolder;margin-left: 125px;}
+.nav_search{float:right;width:150px;height: 21px;border: 1px solid white;margin-top: 7px;margin-right: 130px;background-color: white;}
+a:link{color:#522a06;text-decoration-line:none;}
+a:hover{text-decoration-line: underline;}
+a{color: white;}
+.nav_content a:hover{color:#f9f603;text-decoration-line: none;}
+.b{color: #f9f603;}
+.text{border:none;width: 100px;height:15px;background-color: white;margin-top: 0px;}
+.button{width: 45px;height: 23.5px;background-color: #000;color:white;border: 1px solid #f8f5ee;position: absolute;right: 127.5px;top:178.5px;}
+#content{width: 1000px;position: center;clear: both;}
+#content_top{overflow: hidden;}
+#content_bottom_left{width: 715px;float: left;margin-top: -30px;}
+#content_bottom_right{width: 400px;float: right;margin-top: -280px;margin-right: -500px;background-size: 300px 500px;height: 500px;}
+.n_p{float:left;width: 324px;height: 243px;background-image: url(images/news_bg.png);z-index: 1;margin-left: 130px;margin-top: 20px;}
+.pp{float: left;width:  300px;height:  200px;background-image: url(images/news.jpg);z-index: 3;margin-left: 11px;margin-top:10px;}
+.wenzi{width: 300px;height: 22px;position: center;margin-left: 31.9px;margin-bottom: 50px;color: #522a06;font-family: "宋体"；font-size:12px;}
+.n_l{float:left;width: 400px;margin-left: 38px;float: left;background-image: url(images/change.png);background-repeat: no-repeat;margin-top: 20px;margin-left: 5px;}
+.peixun{width:200px;height:29px;margin-top: 50px;float: left;}
+.gengduo1{margin-left: 400px;}
+.list1{width: 450px;float: left;margin-top: -50px;padding-top: 0px;height: 120px;line-height: 27px}
+.shijian{float: right;}
+.list1 ul li a{color: #522a06;}
+.n_a{width: 300px;margin-top: 20px;float: right;background-image:url(images/board.png);height: 300px;background-repeat: no-repeat;margin-right: 40px;}
+.gonggao_p1{background-image:url(images/board_bg.png);width: 350px;height: 280px;margin-top: 30px;background-repeat: no-repeat;margin-left: -70px;background-size: 350px 210px;}
+.gonggao_l ul li a{ color: #522a06;height: 280px;line-height: 25px;}
+.gonggao_l{width: 350px;padding-top: 10px;}
+.academic{width: 360px;margin-left: 110px;}
+.xushu{height: 50px;background-image: url(images/academic.png);width:300px;}
+.gengduo2{margin-left: 300px}
+.list2{width: 360px;line-height: 25px;}
+.list2 ul li a{color:#522a06; }
+.b_n{width: 360px;margin-left: 370px;margin-top: -50px;}
+.shutan{height: 50px;background-image: url(images/book_news.png);width: 300px;}
+.gengduo3{margin-left: 300px}
+.list3{width: 360px;line-height: 25px;}
+.list3 ul li a{color:#522a06; }
+.fc{width: 900px;height: 50px;background-image: url(images/fengcai_bg1.png);background-repeat: no-repeat;margin-left: -380px;margin-top: 180px;}
+.gengduo4{margin-left: 680px}
+.pic_l{background-image: url(images/fengcai_bg2.png);width: 700px;height: 200px;background-repeat: no-repeat;margin-left: 20px;margin-top: 20px;}
+.nei_pic{height: 120px;padding: 20px 20px ;margin-top: 20px;}
+.mingjia_pic{background-image: url(images/show.png);height: 23px;background-repeat: no-repeat;margin-left: 20px}
+.show_mingjia{background-image: url(images/show_bg.png);background-repeat: no-repeat;background-size: 300px 430px;width: 380px;height: 430px;}
+.ren{margin-left: 30px;margin-top: 10px;width: 350px;height: 200px;}
+.jianjie{width:300px;height:350px; color: #522a06;line-height: 30px; margin-left: 10px;margin-right: 20px;}
+.red{color: red;font-weight: bolder;}
+.gengduo5{width: 30px;height: 20px;margin-left:240px;margin-top: -150px}
+#footer{height: 105px;background-image: url(images/foot.gif);background-size: 1150px 105px;width: 1125px;margin-left: -360px;margin-top: 200px}
+.lianjie ul li{display: inline;color:  #522a06;}
+.lianjie ul li a{color:  #522a06;font-weight: bolder;}
+.lianjie{width: 1100px;height: 30px;margin-left: 190px;margin-top: 40px;}
+.f_p{width: }
+.hr{color:#522a06;font-weight: bolder; }
+.wenzi1{width: 700px;color: #522a06;position: center;margin-left: 200px;font-variant-position: center;}
